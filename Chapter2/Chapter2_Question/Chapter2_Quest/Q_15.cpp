@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-	int a, b; // ¼ıÀÚ
-	char z; // ¿¬»êÀÚ
+	int a, b; // ìˆ«ì
+	char z; // ì—°ì‚°ì
 	while (true) {
 		cout << "? ";
 		cin >> a >> z >> b;
