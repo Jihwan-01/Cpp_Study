@@ -4,11 +4,11 @@ using namespace std;
 
 int main() {
 	string name, address, age;
-	cout << "ÀÌ¸§Àº?";
+	cout << "ì´ë¦„ì€?";
 	getline(cin, name);
-	cout << "ÁÖ¼Ò´Â?";
+	cout << "ì£¼ì†ŒëŠ”?";
 	getline(cin, address);
-	cout << "³ªÀÌ´Â?";
+	cout << "ë‚˜ì´ëŠ”?";
 	getline(cin, age);
-	cout << name << ", " << address << ", " << age << "¼¼" << endl;
+	cout << name << ", " << address << ", " << age << "ì„¸" << endl;
 }
