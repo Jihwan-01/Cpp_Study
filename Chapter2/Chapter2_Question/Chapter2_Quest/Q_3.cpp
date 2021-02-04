@@ -3,10 +3,10 @@ using namespace std;
 
 int main() {
 	int a, b;
-	cout << "µÎ ¼ö¸¦ ÀÔ·ÂÇÏ¶ó>>";
+	cout << "ë‘ ìˆ˜ë¥¼ ì…ë ¥í•˜ë¼>>";
 	cin >> a >> b;
 
-	cout << "Å« ¼ö = ";
+	cout << "í° ìˆ˜ = ";
 	if (a > b)
 		cout << a;
 	else
