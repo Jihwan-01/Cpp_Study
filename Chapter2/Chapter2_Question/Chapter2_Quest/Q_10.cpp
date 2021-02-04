@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
 	char string[100];
-	cout << "¹®ÀÚ¿­ ÀÔ·Â>>";
+	cout << "ë¬¸ìì—´ ì…ë ¥>>";
 	cin.getline(string, 100);
 	for (int i = 0; i < strlen(string); i++) {
 		for (int j = 0; j < i + 1; j++)
