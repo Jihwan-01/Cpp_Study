@@ -1,7 +1,7 @@
 #ifndef CALCULATOR_H
 #define CALCULATOR_H
 
-class Calculator { // °è»ê±â Å¬·¡½º
+class Calculator { // ê³„ì‚°ê¸° í´ë˜ìŠ¤
 public:
 	void run();
 };
