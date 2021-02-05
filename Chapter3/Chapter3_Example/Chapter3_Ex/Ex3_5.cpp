@@ -9,7 +9,7 @@ public:
 	void show() { cout << "(" << x << ", " << y << ")" << endl; }
 };
 
-Point::Point() : Point(0, 0) {} // Point(int a, int b) »ý¼ºÀÚ È£Ãâ
+Point::Point() : Point(0, 0) {} // Point(int a, int b) ìƒì„±ìž í˜¸ì¶œ
 
 Point::Point(int a, int b)
 	: x(a), y(b) {}
