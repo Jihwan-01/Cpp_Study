@@ -13,7 +13,7 @@ public:
 	~Oval();
 };
 
-Oval::Oval() : Oval(1, 1) {} // Oval(int wid, int hei) »ı¼ºÀÚ È£Ãâ
+Oval::Oval() : Oval(1, 1) {} // Oval(int wid, int hei) ìƒì„±ì í˜¸ì¶œ
 
 Oval::Oval(int wid, int hei) {
 	width = wid; height = hei;
@@ -36,7 +36,7 @@ int Oval::getHeight() {
 }
 
 Oval::~Oval() {
-	cout << "Oval ¼Ò¸ê : width = " << width << ", height = " << height << endl;
+	cout << "Oval ì†Œë©¸ : width = " << width << ", height = " << height << endl;
 }
 
 int main() {
