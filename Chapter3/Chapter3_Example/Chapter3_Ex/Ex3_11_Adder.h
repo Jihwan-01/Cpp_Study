@@ -1,7 +1,7 @@
 #ifndef ADDER_H
 #define ADDER_H
 
-class Adder { // µ¡¼À ¸ğµâ Å¬·¡½º
+class Adder { // ë§ì…ˆ ëª¨ë“ˆ í´ë˜ìŠ¤
 	int op1, op2;
 public:
 	Adder(int a, int b);
