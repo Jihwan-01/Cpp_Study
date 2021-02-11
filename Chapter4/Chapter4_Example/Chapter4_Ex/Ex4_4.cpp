@@ -26,7 +26,7 @@ int main() {
 
 	for (int i = 0; i < 2; i++) {
 		for (int j = 0; j < 3; j++) {
-			cout << "Circle [" << i << "," << j << "]ÀÇ ¸éÀûÀº ";
+			cout << "Circle [" << i << "," << j << "]ì˜ ë©´ì ì€ ";
 			cout << circles[i][j].getArea() << endl;
 		}
 	}
